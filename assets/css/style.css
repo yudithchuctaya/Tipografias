@@ -1,6 +1,4 @@
-body{
-    background: "https://i.pinimg.com/736x/9a/fc/2c/9afc2ca4e814ba497fcaf1d67e3ce9a4--wallpaper-s-wallpaper-for-iphone.jpg";
-}
+
 
 .box{
     width: 220px;
@@ -31,7 +29,7 @@ h2{
 }
 h3,p{
     font-family: 'Boogaloo', cursive;
-   font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka One', cursive;
 }
 h1{
     font-family: 'Righteous', cursive;
@@ -43,7 +41,7 @@ h1{
 
 }
 .icon-diamond{
-     font-size: 50px;
+    font-size: 50px;
 
 }
 .icon-heart{
