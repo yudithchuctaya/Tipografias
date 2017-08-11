@@ -2,7 +2,7 @@
 
 .box{
     width: 220px;
-    height: 270px;
+    height: 300px;
     box-shadow: 8px 10px 14px -8px #CECECE;
     float: left;
     text-align: center;
@@ -36,6 +36,7 @@ h1{
 
 }
 
+
 .icon-paperplane{
     font-size: 50px;
 
@@ -48,8 +49,8 @@ h1{
     font-size: 50px;
     color:cadetblue;
 }
-.azul{
-    color: cornflowerblue;
+p{
+    color: #F01AA5  ;
 }
 .icon-cup{
     font-size: 50px;
