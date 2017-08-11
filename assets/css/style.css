@@ -1,0 +1,63 @@
+body{
+    background: "https://i.pinimg.com/736x/9a/fc/2c/9afc2ca4e814ba497fcaf1d67e3ce9a4--wallpaper-s-wallpaper-for-iphone.jpg";
+}
+
+.box{
+    width: 220px;
+    height: 270px;
+    box-shadow: 8px 10px 14px -8px #CECECE;
+    float: left;
+    text-align: center;
+    background-color:#F4F1F1;
+    padding-top:30px;
+    margin: 5px;
+    -webkit-transition:all  1s ease; 
+    -moz-transition:all 1s ease;
+    transition: all 1s ease; 
+}
+h2{
+    font-family: "Playfair Display", serif;
+    color:#777777;
+}
+.box:hover{
+    padding-top:20px;
+    color: white;
+    background-color:#fff;
+    -webkit-transform: scale (1.1);
+    color:#8C8F98;
+    -webkit-transition:.0.5s  ease-in-out;
+    background: #2FECD3;
+
+}
+h3,p{
+    font-family: 'Boogaloo', cursive;
+   font-family: 'Fredoka One', cursive;
+}
+h1{
+    font-family: 'Righteous', cursive;
+
+}
+
+.icon-paperplane{
+    font-size: 50px;
+
+}
+.icon-diamond{
+     font-size: 50px;
+
+}
+.icon-heart{
+    font-size: 50px;
+    color:cadetblue;
+}
+.azul{
+    color: cornflowerblue;
+}
+.icon-cup{
+    font-size: 50px;
+
+}
+.icon-food{
+     font-size: 50px;
+
+}
